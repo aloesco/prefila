@@ -1,0 +1,447 @@
+a{
+	color: white;
+}
+p a{
+    color: blue;
+}
+a:hover{
+	color: blue;
+}
+.navbar-engage .dropdown .dropdown-menu > li.active > a{
+	color: blue;
+}
+.navbar-engage .navbar-nav > li > a:hover,
+.navbar-engage .navbar-nav > li.active > a,
+.navbar-engage .navbar-nav > li.open > a,
+.navbar-engage .navbar-nav > .active > a:hover,
+.navbar-engage .navbar-nav > .active > a:focus,
+.navbar-engage .navbar-nav > .open > a:hover{
+	color: blue;
+}
+.navbar-engage .navbar-nav > li a:hover::before,
+.navbar-engage .navbar-nav > li.active a::before,
+.navbar-engage .navbar-nav > li.open > a::before,
+.navbar-engage .navbar-nav > .active > a:focus::before {
+  background: blue;
+}
+.navbar-engage .dropdown .dropdown-menu{
+	border-color: blue;
+}
+#main-menu > li > a:hover,
+#main-menu > li.active > a,
+#main-menu > li.open > a,
+#main-menu > .active > a:hover,
+#main-menu > .active > a:focus,
+#main-menu > .open > a:hover{
+	color: blue;
+}
+#main-menu .dropdown .dropdown-menu > li.active > a{
+	color: blue;
+}
+
+.open>a{color: blue !important;}
+
+.navbar-engage .dropdown .dropdown-menu > li > a:hover, .navbar-engage .dropdown .dropdown-menu > li > a .active{
+	color: blue;
+}
+#main-menu .dropdown .dropdown-menu > li > a:hover,#main-menu .dropdown .dropdown-menu > li > a:active{
+	color: blue;
+}
+
+.section-title::before{
+	border-color: blue;
+}
+.small-title::before{
+	border-color: blue;
+}
+.page-header-section{background: blue;}
+#service-block-main .service-item:hover i{
+	color: blue;
+	border-color: blue;
+}
+#service-block-main .service-item:hover h2{
+	color: blue;
+}
+#service-block-main .service-item:hover .icon-wrapper::before {
+  background: blue;
+}
+#service-block-main .service-item:hover .icon-wrapper::after {
+  background: blue;
+}
+#portfolio .portfolio-items figure figcaption:hover{
+	background: rgba(153, 204, 51, 0.9);
+}
+#other-services .other-service-item .icon .icon-medium{
+	background: blue;
+}
+#other-services .other-service-item:hover .icon-medium{
+	background: blue;
+}
+#other-services .other-service-item .service-content h3{
+	color: blue;
+}
+#progress .icon-effect{
+	color: blue;
+}
+#clients #clients-scroller .owl-pagination .owl-page.active span{
+	background: blue;
+}
+#clients #clients-scroller .owl-pagination .owl-page span{
+	border-color: blue;
+}
+#testimonial #testimonial-carousel .carousel-control{
+	color: blue;
+}
+#testimonial #testimonial-carousel .carousel-control{
+	color: blue;
+}
+#testimonial .item blockquote small{
+	color: blue;
+}
+#testimonial .testimonial-inner:before{
+	background: rgba(153, 204, 51, 0.2);
+}
+#blog .blog-item-img .blog-category{
+	background: blue;
+}
+#blog .blog-item-img .blog-category{
+	background: blue;
+}
+#blog .blog-item-text h3{
+	color: blue;
+}
+#blog .blog-item-text .blog-item-info a:hover{
+	color: blue;
+}
+#blog .blog-item-text h3 a:hover{
+  color: blue;
+}
+
+.scroll-top:hover{
+	background: blue;
+	border-color: blue;
+}
+
+/* About Us*/
+.skill-wrapper .progress .progress-bar{
+	background-color: blue;
+}
+.skill-wrapper .progress .percent{
+	color: blue;
+}
+#why-choose .icon i{
+	color: blue;
+}
+#why-choose .tab-container h2{
+	color: blue;
+}
+#why-choose .tab-menu .list-group > a.active{
+	background: blue;
+}
+#notice .notice-content{
+	border-color: blue;
+}
+/* services */
+#service-block-1 .service-item:hover .service-content h2{
+	color: blue;
+}
+#service-block-1 .service-item:hover .icon{
+	border-color: blue;
+}
+#service-block-1 .service-item:hover .icon i{
+	background: blue;
+}
+#service-block-2 .service-inner:hover i{
+	color: blue;
+}
+#service-block-2 .service-inner:hover h3{
+	color: blue;
+}
+#team-block-2 .team-member:hover{
+	border-color: blue;
+}
+.pricing-table-1 .table-header{
+	background: blue;
+}
+#pricing-block-2{
+	background: blue;
+}
+.pricing-table-x .plan .price{
+	color: blue;
+}
+.pricing-table-x .plan .period{
+	color: rgba(153, 204, 51, 0.7);
+}
+.panel-default .panel-heading a{
+	background: blue;
+}
+/*Blog*/
+#blog-page .sidebar .search-box .form-control:focus, #blog-page .sidebar .search-box button:focus, #blog-page .sidebar .search-box input:focus, #blog-page .sidebar .search-box textarea:focus{
+	border-color: blue;
+}
+#blog-page .sidebar .plain-search-btn{
+	color: blue;
+}
+#blog-page .post-content .reading::after{
+	border-color: blue;
+}
+.light li a{
+	color: blue;
+}
+#blog-page .widget-title::before{
+	border-color: blue  ;
+}
+.flat li a i{
+	background: blue;
+	border-color: blue;
+}
+#tabs .tabs-style-2 .nav-tabs li.active a, #tabs .tabs-style-2 .nav-tabs li.active a:hover, #tabs .tabs-style-2 .nav-tabs li.active a:focus, #tabs .tabs-style-2 .nav-tabs li a:hover{
+	border-color: blue;
+	background-color: blue;
+}
+#tabs .tabs-style-2 .nav-tabs{
+	border-color: blue;
+}
+#contact .contact-info-wrapper .contact-item-wrapper i{
+	background: blue;
+}
+.preset-bg{
+	background: blue;
+}
+.dark-bg{
+	background: rgba(0, 0, 0, 0.1);
+}
+.btn-danger{
+	background-color: blue;
+	border-color: blue;
+}
+.btn-danger:hover,.btn-danger:active, .btn-danger.active, .open > .dropdown-toggle.btn-danger{
+	background-color: #90BF34;
+	border-color: #90BF34;
+}
+.page-header .page-header-inner:before{
+	background-color: #90BF34 ;
+	opacity: 0.2;
+}
+/*  Mobile menu */
+.slicknav_btn{
+  border-color: blue;
+}
+.slicknav_btn:hover{
+	background: blue;
+}
+.slicknav_nav a:hover,
+.slicknav_open .active a{
+  color: blue;
+}
+.slicknav_menu .slicknav_icon-bar{
+  background: blue;
+}
+.tparrows.preview2:hover:after{
+	color: blue;
+}
+#default-tab .nav-tabs > li > a.active , #default-tab .nav-tabs > li a.active:focus, #default-tab .nav-tabs > li a.active:hover {
+    color: blue;
+}
+#default-tab ul.nav-tabs > li a.active::before {
+  background-color: blue;
+}
+
+/* New Css */
+#round-tab ul.nav-tabs {
+  border-bottom: 1px solid blue;
+}
+
+#round-tab ul li a.active {
+    border-left: 1px solid blue  ;
+    border-right: 1px solid blue  ;
+    border-top: 1px solid blue  ;
+    color: blue;
+}
+#vertical-tab ul.nav-tabs li a.active {
+    border-bottom: 3px solid blue  ;
+}
+#vertical-tab ul.nav-tabs li a.active > .fa {
+  color: blue;
+}
+#tab-with-icon .nav-tabs li a:hover i, #tab-with-icon .nav-tabs li a:focus, #tab-with-icon .nav-tabs li a.active i {
+  background: blue none repeat scroll 0 0;
+}
+.btn-outline {
+  border-color: blue;
+  color: blue;
+}
+.btn-outline:hover {
+  background: blue;
+}
+.progress-bar {
+  background: blue;
+}
+#testimonial .testimonial-footer {
+  color: blue;
+}
+#testimonial .owl-pagination .owl-page span {
+  border: 1px solid blue;
+}
+#testimonial .owl-pagination .owl-page.active span {
+  background: blue none repeat scroll 0 0;
+}
+#testimonial .testimonial-footer a {
+    color: blue;
+}
+
+#single-testimonial-item .testimonial-footer a {
+    color: blue;
+}
+#single-testimonial-item .owl-pagination .owl-page.active span {
+  background: blue none repeat scroll 0 0;
+}
+#single-testimonial-item .owl-pagination .owl-page span {
+  border: 1px solid blue;
+}
+#color-client-scroller .client-item-wrapper {
+  background: blue none repeat scroll 0 0;
+}
+#clients .client-item-wrapper:hover {
+    border-color: blue;
+}
+i.icon-default {
+  color: blue;
+}
+i.icon-round {
+  background-color: blue;
+}
+i.icon-round-border {
+  border: 3px solid blue;
+  color: blue;
+}
+i.icon-box {
+  background-color: blue;
+}
+i.icon-box-border {
+  border: 3px solid blue;
+  color: blue;
+}
+.blog-post-footer ul li a {
+  border: 1px solid blue;
+  color: blue;
+}
+.blog-post-footer ul li a:hover {
+  background: blue none repeat scroll 0 0;
+  border: 1px solid blue;
+}
+.blog-post-content blockquote.blockquote {
+    border-left: 5px solid blue;
+}
+.blog-pagination nav ul.pagination li.page-item.active a , .blog-pagination nav ul.pagination li.page-item a:hover , .blog-pagination nav ul.pagination li.page-item a:focus {
+    background: blue none repeat scroll 0 0;
+    border: 1px solid blue;
+}
+.form-control:focus {
+  border-color: blue  ;
+}
+h2.widget-title {
+  color: blue;
+}
+.widget.tag-cloud a {
+  background: blue;
+}
+.sidebar-area .search-bar button i.fa {
+  color: blue;
+}
+.contact-title-text h2 {
+  color: blue;
+}
+.roof-menu ul li.active a {
+    color: blue;
+}
+.roof-social-icons a i.fa:hover {
+  background: blue;
+}
+.service2-single-service .fa {
+    background: blue none repeat scroll 0 0;
+}
+.form-control:focus {
+  border-color: blue  ;
+}
+.btn-common {
+  background: blue none repeat scroll 0 0;
+}
+.btn-common::before {
+  background: #7aa427 none repeat scroll 0 0;
+}
+.back-to-top i {
+  background-color: blue;
+}
+#carousel-area .carousel-item .carousel-caption {
+  color: blue;
+}
+.top_search .top_search_icon {
+  color: blue;
+}
+#carousel-area .carousel-indicators li:hover, #carousel-area .carousel-indicators li.active {
+  background: blue none repeat scroll 0 0;
+}
+.service-item .icon-wrapper i {
+  color: blue;
+}
+.split .details-list h3 {
+  color: blue;
+}
+#other-services .nav-tabs li a:hover i, #other-services .nav-tabs li a:focus, #other-services .nav-tabs li a.active i {
+  background: blue none repeat scroll 0 0;
+}
+.btn-common.active {
+  background: #7aa427 none repeat scroll 0 0;
+}
+.sup-desc-wrap .sup-link .left-link, .sup-desc-wrap .sup-link .right-link {
+  background: blue none repeat scroll 0 0;
+  border: 1px solid blue;
+}
+.featured-box .featured-icon i {
+  color: blue;
+}
+#team .team-item figure figcaption .orange-line {
+  background: blue none repeat scroll 0 0;
+}
+#team .team-item .social .facebook, #team .team-item .social .twitter, #team .team-item .social .google-plus {
+  background: blue none repeat scroll 0 0;
+  border: 1px solid blue;
+}
+.orange-line {
+  background: blue none repeat scroll 0 0;
+}
+#cool-facts .facts-item i {
+  color: blue;
+}
+#testimonial .testimonial-inner:hover {
+  border-color: blue;
+}
+#blog .blog-item-text .blog-one-footer i {
+  color: blue;
+}
+#blog .blog-item-text .blog-one-footer a:hover {
+  color: blue;
+}
+.portfolio-meta ul li span {
+  color: blue;
+}
+#main-menu ul .dropdown .dropdown-menu .dropdown-item.active, #main-menu ul .dropdown .dropdown-menu .dropdown-item.active:focus, #main-menu ul .dropdown .dropdown-menu .dropdown-item.active:hover {
+  color: blue  ;
+  background-color: #eee;
+}
+#main-menu .nav-link.active {
+  color: #333;
+}
+#main-menu .nav-link:hover {
+  color: blue;
+}
+.sup-desc-wrap .sup-link a:hover {
+  color: blue;
+}
+#team .team-item .social a:hover {
+  color: blue;
+}
+#main-menu ul .dropdown .dropdown-menu a:hover, #main-menu .dropdown .dropdown-menu a .active {
+  color: blue;
+}

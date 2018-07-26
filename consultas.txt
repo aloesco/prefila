@@ -1,0 +1,16 @@
+SET NAMES utf8;
+SET FOREIGN_KEY_CHECKS = 0;
+
+
+CREATE TABLE consultas (
+	Id int(11) NOT NULL AUTO_INCREMENT,
+	Nombre varchar(20) NOT NULL,
+	Pregunta varchar(320) NOT NULL DEFAULT '--',
+	Ciudad varchar(40) NOT NULL,
+	PRIMARY KEY (Id)
+);
+
+
+INSERT INTO consultas VALUES ('1', 'Alba', 'Si la renta me sale a devolver, ¿cuándo tengo que devolver mi dinero?', 'Sevilla'),
+('2', 'Juan', '¿Hay más oficinas a parte de la de San Blas?', 'Madrid'),
+('3', 'Agustín', '¿Hasta qué cantidad de dinero puedo estar sin declararlo a Hacienda?', 'Otra');
